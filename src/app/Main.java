@@ -6,7 +6,7 @@ import entity.*;
 import exceptionn.PoliciesNotFouund;
 import exceptionn.PolicyAlreadyExists;
 import exceptionn.PolicyNotFoundException;
-public class test {
+public class Main {
 	public static void main(String args[]) throws ClassNotFoundException, SQLException
 	{
 		Scanner sc=new Scanner(System.in);
